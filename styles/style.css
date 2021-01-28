@@ -108,12 +108,13 @@ margin-left: auto;
 display: flex;
 padding: 0;
 justify-content: space-between;
-}.description__two-columns_brief {
+}
+
+.description__two-columns_brief {
 width: 175px;
 height: 100%;
 left: 0;
 top: 0;
-height: 100%;
 }
 
 p {
@@ -128,7 +129,6 @@ font-style: normal;
 width: 80%;
 height: 100%;
 min-width: 784px;
-height: 100%;
 right: 0;
 top: 0;
 }
@@ -250,7 +250,6 @@ margin-bottom: 0;
 margin-left: auto;
 margin-right: auto;
 padding: 0;
-z-index: 100;
 }
 
 .feynman__link {
