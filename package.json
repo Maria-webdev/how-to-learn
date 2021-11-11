@@ -1,0 +1,24 @@
+{
+  "name": "how-to-learn",
+  "version": "1.0.0",
+  "description": "**Проект** - одностраничный инфомационный сайт, структура - 11 _секций_, состоящие из 19 _блоков_, некоторые из которых применены 2 раза или более в разных секциях. В проекте **примены** _БЭМ_, _Flex_, _разные методы позиционирования_, _API_, _анимация_, _трансформация_, соблюдена _семантика_. Все ссылки на странице *рабочие*.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maria-webdev/how-to-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maria-webdev/how-to-learn/issues"
+  },
+  "homepage": "https://maria-webdev.github.io/how-to-learn/",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
